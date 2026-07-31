@@ -1,4 +1,4 @@
-# Azure Boards Clone — Work Item Tracker
+# Azure Boards  — Work Item Tracker
 
 Azure DevOps Boards–style work item tracker (Epic → Feature → User Story → Task/Bug).
 
